@@ -1,2 +1,13 @@
-# project_weather_pwa
-About This is a code repository for a Weather Progressive Web App using React.js, Service Workers, PWA, Lighthouse...
+# Weather Progressive Web Application
+
+![Weather Data](https://i.imgur.com/3csowzj.png)
+
+### [Live Site](https://project-weather-pwa.netlify.app/)
+
+## Introduction
+
+I used React with service workers.
+
+Setup:
+
+- run `npm i && npm start` for both client and server side to start the development server
